@@ -1,14 +1,18 @@
-### Hi there 👋
-I am Anirudh. Programmer, 🎮gamer, 👨‍🏫 teacher and 🏎️ f1 ferrari fan (😢 me this season). I write rarely but i try to make it count. Really nice to meet you.
+### Greetings, traveler of the digital realms 🧙‍♂️ (Hi there)
+I am Anirudh. A scribe of code 💻, a champion in games of skill 🎮, a teller of tales to eager minds 👨‍🏫, and a steadfast supporter of the scarlet chariots of Ferrari 🏎️ (forever shall they have my allegiance). My quill rests often, but when it moves, it is with purpose. A true honour it is to cross paths with you.
 
-### 🕺 When I'm not coding...
-You can find me exploring new hobbies, reading tech blogs, playing games, rading ficton books, or tinkering with things. 
 
-## 🔭 I’m currently working on
-I am Software enginner at [PayPal](https://www.paypal.com/). I am working in the developer productivity team building stuff that helps devs through out the company.
+### When the forge of code lies quiet... ☕ (My Hobbies)
+You might find me wandering new paths of craft and hobby 🧭, poring over the ancient scrolls of tech-lore 📜, partaking in grand campaigns of strategy and wit 🎲, delving into sagas of fiction 📚, or tinkering with artifacts of curious design ⚙️.
 
-### 📫 How to reach me
-If you have something interesting,reach out to me at anirudhjaishankar97@gmail.com. Please dont spam. Thanks and good day 🌠
+
+### My current quest ⚒️ (What I'm working on)
+I am a Master Smith of Software in the great marketplace of Walmart (https://www.walmart.com/) 🛒. I toil with the fellowship of the Runtime Platforms, forging tools and enchanted artifacts to aid the builders and craftsmen across the entire kingdom.
+
+
+### To send a missive 🐦 (How to reach me)
+Should you bear tidings of interest, you may send a raven to anirudhjaishankar97@gmail.com ✉️. I pray you, do not beset my inbox with trivial matters 🚫. My thanks, and may your days be
+fair. 🙏
 
 
 <!--
